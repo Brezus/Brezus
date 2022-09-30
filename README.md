@@ -1,4 +1,10 @@
-### Hi there 👋
+### var greeting = jamaican ? 'Wah Gwaan 😄' : 'Hello There 😄👋'
+- 🔭 I’m currently working on completing my portfolio
+- 🌱 I’m currently learning cms, next js, firebase
+- 👯 I’m looking to collaborate on vanilla js projects and react projects with frontend developers
+- 🤔 I’m looking for help with portfolio project ideas
+- ⚡ Fun fact: Avid anime watcher and overwatch fan
+
 
 <!--
 **Brezus/Brezus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
